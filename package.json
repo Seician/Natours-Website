@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page from natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seician/Natours-Website.git"
+  },
+  "author": "Seician Aurel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seician/Natours-Website/issues"
+  },
+  "homepage": "https://github.com/Seician/Natours-Website#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
